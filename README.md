@@ -15,7 +15,7 @@ Develop and compare multiple machine learning classification models to predict c
 ## 📂 Repository Structure
 
 ```
-g/
+bank-customer-churn/
 │
 ├── notebook/
 │   └── Bank_Customer_Churn.ipynb
